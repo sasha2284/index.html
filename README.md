@@ -23,19 +23,33 @@
             <img src="https://mars.algoritmika.org/uploads/2020/10/discussion_0_1603392703.png">
             <img src="https://mars.algoritmika.org/uploads/2020/10/game-development_0_1603392703.png">
     <h2 style=""> Наше предложение </h2>
-                <table style="border: 5px black">
-                    <tr style="background: solid green">
+                <table style="border: 1px solid black">
+                    <tr style="background-color:lightgreen">
                         <td> Вид работы </td>
                         <td> Подробности </td>
                         <td> Цена </td> 
                 </tr>
                 <tr>
-                    <td style="bacground: solid green"> Портирование</td>
+                    <td style="background-color:lightgreen;"> Портирование</td>
                     <td> Destop, Android, iOS </td>
                     <td> от 50 тыс. руб </td>
                 </tr>
-                </table>
-            
+                <tr>
+                    <td style="background-color:lightgreen;"> Локализация </td>
+                    <td> Перевод: тексты, голоса, графика</td> 
+                    <td> от 50 тыс. руб </td>
+                </tr>
+                <tr>
+                    <td style="background-color:lightgreen;"> Создание контента</td>
+                    <td> Звук, музыка, графика 3D, 2D </td>
+                    <td> от 50 руб./час </td>
+                </tr>
+                <tr>
+                    <td style="background-color:lightgreen;"> Игра под ключ </td>
+                    <td> Обсуждение сюжета со сценаристом </td>
+                    <td> Договорная </td>
+                </tr> 
+            </table>
          </main> 
          </body>
          </html>
